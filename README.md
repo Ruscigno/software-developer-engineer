@@ -4,7 +4,7 @@ This project is the online version of my Resume and CV theme for [Bootstrap](htt
 
 ## Preview
 
-[![Resume Preview](https://www.ruscigno.com.br/img/resume.png)](https://www.ruscigno.com.br)
+[![Resume Preview](https://www.ruscigno.com.br/img/resume.jpg)](https://www.ruscigno.com.br)
 
 **[View Live Preview](https://www.ruscigno.com.br)**
 
@@ -52,9 +52,9 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 
 'Software Developer Engineer Resume' was created by and is maintained by **[Sander Ruscigno](https://www.ruscigno.com.br/)**.
 
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* https://www.ruscigno.com.br
+* https://www.linkedin.com/in/alessander-ruscigno/
+* https://github.com/Ruscigno
 
 'Software Developer Engineer Resume' is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
