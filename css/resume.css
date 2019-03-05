@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - Resume v5.0.4 (https://startbootstrap.com/template-overviews/resume)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+ * Software-Developer-Engineer - Alessander Ruscigno - Software Developer Engineer Resume v1.0.0 (https://www.ruscigno.com.br/)
+ * Copyright 2013-2019 Alessander Ruscigno
+ * Licensed under MIT (https://github.com/Ruscigno/software-developer-engineer/blob/master/LICENSE)
  */
 
 body {
@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: #343a40;
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #343a40;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -90,7 +90,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #56606a;
 }
 
 @media (min-width: 992px) {
@@ -160,30 +160,23 @@ section.resume-section .resume-item .resume-date {
 }
 
 @media (min-width: 768px) {
-  section.resume-section {
-    /*min-height: 100vh;*/
-  }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
   }
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #343a40 !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #343a40 !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #343a40;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
-}
-
-#workflow{
-  margin-top: 1rem;
+  color: #121416;
 }

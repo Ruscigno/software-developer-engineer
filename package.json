@@ -1,51 +1,52 @@
 {
-    "title": "Alessander Ruscigno - Software Developer Engineer Resume",
-    "name": "software-developer-engineer",
-    "version": "1.0.0",
-    "scripts": {
-        "start": "gulp watch"
-    },
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
-    "homepage": "https://www.ruscigno.com.br/",
-    "bugs": {
-        "url": "https://github.com/Ruscigno/software-developer-engineer/issues",
-        "email": "ruscigno@gmail.com"
-    },
-    "license": "MIT",
-    "author": "Alessander Ruscigno",
-    "contributors": [
-        "Alessander Ruscigno (https://www.ruscigno.com.br/)",
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Ruscigno/software-developer-engineer.git"
-    },
-    "dependencies": {
-        "@fortawesome/fontawesome-free": "5.7.2",
-        "bootstrap": "4.3.1",
-        "jquery": "3.3.1",
-        "jquery.easing": "^1.4.1"
-    },
-    "devDependencies": {
-        "browser-sync": "2.26.3",
-        "del": "^3.0.0",
-        "gulp": "4.0.0",
-        "gulp-autoprefixer": "6.0.0",
-        "gulp-clean-css": "4.0.0",
-        "gulp-header": "2.0.7",
-        "gulp-plumber": "^1.2.1",
-        "gulp-rename": "1.4.0",
-        "gulp-sass": "4.0.2",
-        "gulp-uglify": "3.0.1",
-        "merge-stream": "^1.0.1"
-    }
+  "title": "Alessander Ruscigno - Software Developer Engineer Resume",
+  "name": "software-developer-engineer",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "https://www.ruscigno.com.br/",
+  "bugs": {
+    "url": "https://github.com/Ruscigno/software-developer-engineer/issues",
+    "email": "ruscigno@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Alessander Ruscigno",
+  "contributors": [
+    "Alessander Ruscigno (https://www.ruscigno.com.br/)",
+    "David Miller (http://davidmiller.io/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ruscigno/software-developer-engineer.git"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.7.2",
+    "bootstrap": "4.3.1",
+    "jquery": "3.3.1",
+    "jquery.easing": "^1.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.3",
+    "del": "^3.0.0",
+    "gulp": "4.0.0",
+    "gulp-autoprefixer": "6.0.0",
+    "gulp-clean-css": "4.0.0",
+    "gulp-header": "2.0.7",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.1",
+    "gulp-util": "^3.0.8",
+    "merge-stream": "^1.0.1"
+  }
 }
