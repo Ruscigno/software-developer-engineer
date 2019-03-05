@@ -1,7 +1,7 @@
 {
-    "title": "Resume",
-    "name": "startbootstrap-resume",
-    "version": "5.0.4",
+    "title": "Alessander Ruscigno - Software Developer Engineer Resume",
+    "name": "software-developer-engineer",
+    "version": "1.0.0",
     "scripts": {
         "start": "gulp watch"
     },
@@ -14,19 +14,20 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
+    "homepage": "https://www.ruscigno.com.br/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/Ruscigno/software-developer-engineer/issues",
+        "email": "ruscigno@gmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Alessander Ruscigno",
     "contributors": [
+        "Alessander Ruscigno (https://www.ruscigno.com.br/)",
         "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+        "url": "https://github.com/Ruscigno/software-developer-engineer.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.7.2",
