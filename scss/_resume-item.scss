@@ -13,8 +13,36 @@ section.resume-section {
   section.resume-section {
     .resume-item {
       .resume-date {
-        min-width: 18rem;
+        min-width: 12rem;
       }
     }
   }
+}
+
+@media (max-width: 576px) {
+  .portifolio-image{
+    max-width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+}
+
+@media (min-width: 577px) {
+  .portifolio-image{
+    max-width: 256px;
+    margin-right: 10px;
+  }
+}
+
+.portifolio-icons{
+  max-height: 30px;
+  margin-right: 5px;
+}
+
+.mb-5{
+  margin-bottom: 1rem !important;
+}
+
+.workflow{
+  margin-top: 1rem;
 }
