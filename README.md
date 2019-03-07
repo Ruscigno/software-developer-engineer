@@ -4,7 +4,7 @@ This project is the online version of my Resume and CV theme for [Bootstrap](htt
 
 ## Preview
 
-[![Resume Preview](https://www.ruscigno.com.br/img/resume.jpg)](https://www.ruscigno.com.br)
+[![Resume Preview](https://www.ruscigno.com.br/img/resume-preview.jpg)](https://www.ruscigno.com.br)
 
 **[View Live Preview](https://www.ruscigno.com.br)**
 

@@ -12,10 +12,11 @@ RUN mkdir -p vendor/jquery/
 RUN mkdir -p vendor/jquery-easing/
 
 COPY index.html .
+COPY favicon.ico .
 COPY css/resume.min.css ./css/
 COPY img/git-repository-logo.png ./img/
 COPY img/profile.jpg ./img/
-COPY img/resume.jpg ./img/
+COPY img/resume-preview.jpg ./img/
 COPY js/resume.min.js ./js/
 COPY vendor/bootstrap/css/bootstrap.min.css ./vendor/bootstrap/css/
 COPY vendor/bootstrap/js/bootstrap.bundle.min.js ./vendor/bootstrap/js/
